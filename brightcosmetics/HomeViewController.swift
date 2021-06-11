@@ -27,7 +27,8 @@ class HomeViewController: UIViewController {
         moreInformation.setTitleColor(UIColor.white, for: .normal)
 
         moreInformation.layer.cornerRadius = 25
-        
+        moreInformation.accessibilityIdentifier = "newmoreid"
+            
         
         self.bottomView.clipsToBounds = true
         self.bottomView.layer.cornerRadius = 10

@@ -1,0 +1,84 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1e4-wx-0eY"; */
+"1e4-wx-0eY.text" = "Label";
+
+/* Class = "UILabel"; text = "Category Name"; ObjectID = "690-AU-nmc"; */
+"690-AU-nmc.text" = "Category Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7bc-Ug-P44"; */
+"7bc-Ug-P44.text" = "Label";
+
+/* Class = "UINavigationController"; title = "Master"; ObjectID = "BuO-wp-YqM"; */
+"BuO-wp-YqM.title" = "Master";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Dfa-Et-LsA"; */
+"Dfa-Et-LsA.title" = "Item";
+
+/* Class = "UILabel"; text = "Product Name"; ObjectID = "IJI-gm-KhI"; */
+"IJI-gm-KhI.text" = "Product Name";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "JG5-mt-0dU"; */
+"JG5-mt-0dU.normalTitle" = "View All";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MBQ-CH-frc"; */
+"MBQ-CH-frc.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "McY-9X-Qpd"; */
+"McY-9X-Qpd.title" = "Title";
+
+/* Class = "UIButton"; normalTitle = "ADD TO BAG"; ObjectID = "MpU-ih-IhS"; */
+"MpU-ih-IhS.normalTitle" = "ADD TO BAG";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "RrW-q4-uqO"; */
+"RrW-q4-uqO.normalTitle" = "View All";
+
+/* Class = "UIButton"; normalTitle = "Browse Catalog"; ObjectID = "SS6-Kw-sCh"; */
+"SS6-Kw-sCh.normalTitle" = "Browse Catalog";
+
+/* Class = "UILabel"; text = "Category Name"; ObjectID = "Vea-LH-OLK"; */
+"Vea-LH-OLK.text" = "Category Name";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "XBV-bQ-SXg"; */
+"XBV-bQ-SXg.text" = "Price";
+
+/* Class = "UIButton"; normalTitle = "More information"; ObjectID = "XeN-Po-4gg"; */
+"XeN-Po-4gg.normalTitle" = "More information";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xob-WU-RgW"; */
+"Xob-WU-RgW.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "cdg-hH-BiY"; */
+"cdg-hH-BiY.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gqm-M3-3Nz"; */
+"gqm-M3-3Nz.text" = "Label";
+
+/* Class = "UILabel"; text = "Product Detail"; ObjectID = "igh-5K-pZf"; */
+"igh-5K-pZf.text" = "Product Detail";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "jRb-ZL-iBy"; */
+"jRb-ZL-iBy.text" = "Subtitle";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "mNP-yy-gzc"; */
+"mNP-yy-gzc.title" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "oJg-Jc-AT3"; */
+"oJg-Jc-AT3.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "pWB-c7-Fvj"; */
+"pWB-c7-Fvj.normalTitle" = "View All";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qZa-tr-Cwc"; */
+"qZa-tr-Cwc.text" = "Label";
+
+/* Class = "UILabel"; text = "Category Name"; ObjectID = "sBj-Lg-rYr"; */
+"sBj-Lg-rYr.text" = "Category Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u4T-hS-54o"; */
+"u4T-hS-54o.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wrB-h1-6LR"; */
+"wrB-h1-6LR.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "yZS-uw-fTE"; */
+"yZS-uw-fTE.title" = "Item";
